@@ -1,18 +1,10 @@
-<h1 align="center">
- Crystalline Bliss
-</h1>
-
 <p align="center">
-<img src="https://divine-star-software.github.io/DigitalAssets/images/logo-small.png">
+<img src="https://crystallinebliss.dev/thumb.jpg">
 </p>
-
 ---
 
 This is a public repo for the game Crystalline Bliss. If you experince any problems with the game please sumbit an issue here.
 
-<p align="center">
-<img src="https://crystallinebliss.dev/thumb.jpg">
-</p>
 ### Links
 
 - [Visit Site](https://crystallinebliss.dev/)
