@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://crystallinebliss.dev/thumb.jpg">
-</p>
 
 ---
 
