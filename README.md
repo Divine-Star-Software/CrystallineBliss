@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://crystallinebliss.dev/thumb.jpg">
 </p>
+
 ---
 
 This is a public repo for the game Crystalline Bliss. If you experince any problems with the game please sumbit an issue here.
