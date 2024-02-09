@@ -1,6 +1,4 @@
-
-<img src="https://crystallinebliss.dev/thumb.jpg">
-
+![Crystalline Bliss](https://crystallinebliss.dev/thumb.jpg)
 
 ---
 
