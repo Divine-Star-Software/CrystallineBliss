@@ -1,4 +1,4 @@
-![Crystalline Bliss](https://crystallinebliss.dev/thumb.jpg)
+
 
 ---
 
